@@ -6,12 +6,12 @@
 #### The purpose of this project was to develop two deliverables to show Louise how other campaigns, ones that succeeded, failed, and were canceled, did in raising money for their funding goals. We collected the data the appropriate data to create models to show Louise how campaigns did based on when they were launched and their goals.
 
 ## Analysis and Challenges
-
 ### Analysis of Outcomes Based on Launch Date
-![../blob/main/assets/images/Outcomes Based On Launch Date.png]
+![Analysis of Outcomes Based on Launch Date](https://github.com/mackalys/kickstarter-analysis/commit/ec1587b449e608c2be25d6f33bd630b242b45f3b?short_path=03bf689#diff-03bf6898910d14051d984d50532a4757f7de1c12252ee044d35df8236c9d92c6.png)
 #### The data we collected on the outcomes based on the launch date supports that most of the successful theaters launch in May and fewer of the successful productions launch in December. On the other hand, the productions that have failed were launched in April to August and another spike in October. For the ones that were canceled, the numbers stay pretty consistent throughout the year.
 
 ### Analysis of Outcomes Based on Goals
+![Analysis of Outcomes Based on Goals](https://github.com/mackalys/kickstarter-analysis/commit/ec1587b449e608c2be25d6f33bd630b242b45f3b?short_path=0a6e3f4#diff-0a6e3f4326491bcabef6721eea9629f44441166f5585dd3455b29bed61737449.png)
 #### For the outcomes based on goals, the results for successful and failed productions are inverse of one another. The graph shows 78.19% of productions are successful when their goal is $45,000 to $49,999 where the rest fail. Then from $35,000 to $44,999, 66.67% of productions fail. Lastly, at $25,000 to $29,999, 80% of productions are successful.
 
 ### Challenges and Difficulties Encountered
