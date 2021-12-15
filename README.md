@@ -8,9 +8,11 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+../blob/main/assets/images/Outcomes_Based_On_Launch_Date.png
 #### The data we collected on the outcomes based on the launch date supports that most of the successful theaters launch in May and fewer of the successful productions launch in December. On the other hand, the productions that have failed were launched in April to August and another spike in October. For the ones that were canceled, the numbers stay pretty consistent throughout the year.
 
 ### Analysis of Outcomes Based on Goals
+../blob/main/assets/images/Outcomes_vs_Goals.png
 #### For the outcomes based on goals, the results for successful and failed productions are inverse of one another. The graph shows 78.19% of productions are successful when their goal is $45,000 to $49,999 where the rest fail. Then from $35,000 to $44,999, 66.67% of productions fail. Lastly, at $25,000 to $29,999, 80% of productions are successful.
 
 ### Challenges and Difficulties Encountered
